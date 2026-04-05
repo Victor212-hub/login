@@ -8,7 +8,7 @@ A proposta foi construir apenas o **front-end** de uma tela de login, sem integr
 
 O foco principal está em:
 
-* Estruturação semântica com HTML
+* Estruturação semântica com HTML.
 * Estilização moderna com CSS
 * Responsividade para diferentes tamanhos de tela
 
